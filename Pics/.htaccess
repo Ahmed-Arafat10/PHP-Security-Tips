@@ -1,0 +1,15 @@
+# Add All Files Extension That Wont Be Executed Or Viewed
+<FilesMatch "\.(php|cpp|js|py|exe|sh|jpg|inc|rb)$" >
+
+Order allow,deny
+Deny from all
+ 
+</FilesMatch>
+
+
+# This Wont Executed Or Viewed ALL FILES
+
+#<FilesMatch ^>
+# Order allow,deny
+# Deny from all
+#</FilesMatch>
