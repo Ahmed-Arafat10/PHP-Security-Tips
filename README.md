@@ -1,3 +1,3 @@
 # PHP-Security-Tips
 
-ElZero PHP Security Tips Playlist
+El-Zero PHP Security Tips Playlist
