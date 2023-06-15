@@ -1,5 +1,5 @@
 
-### PHP Security Tips In Arabic #04 - Prevent SQL Injection
+### PHP Security Tips In Arabic #04 - Validate URL GET Variables
 
 ````php
 $DBHost = "localhost";

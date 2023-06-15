@@ -1,4 +1,4 @@
-### PHP Security Tips In Arabic #14 - How To secure Uploads Part 1
+### PHP Security Tips In Arabic #14 - How To secure Files Upload
 
 
 - Secure Upload Files:
